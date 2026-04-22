@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "kraftdo-nfc"
+		},
+		{
+			"path": "kraftdo-nfc-frontend"
+		}
+	],
+	"settings": {}
+}
